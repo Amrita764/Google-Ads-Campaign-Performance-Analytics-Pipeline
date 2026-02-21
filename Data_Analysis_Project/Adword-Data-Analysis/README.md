@@ -366,11 +366,8 @@ This project is licensed under the **MIT License** — you are free to use, modi
 
 ## 📬 About Me
 
-I'm **Aditya Rajput**, a data analyst passionate about storytelling with data, unsupervised learning, and real-world analytics.
+I'm **Amrita Singh**, a data analyst passionate about storytelling with data, unsupervised learning, and real-world analytics.
 
-- [LinkedIn](https://www.linkedin.com/in/adityakumarda/)  
-- [GitHub](https://github.com/AdityakumarDA)  
-- [Tableau Public](https://public.tableau.com/app/profile/adityakumarda)
 
 If you liked this project, please ⭐ the repo!
 
@@ -378,3 +375,4 @@ If you liked this project, please ⭐ the repo!
 
 > 📌 _If you're a recruiter: This demonstrates strong knowledge in data pipelines, transformation, relational modeling, and BI reporting._  
 > 📌 _If you're a student: Feel free to use this structure to learn data integration and dashboarding step by step._
+
